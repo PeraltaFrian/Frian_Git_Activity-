@@ -81,6 +81,8 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Potato
+- Garlic minced
 
 Instructions:
 1. Preheat grill to medium-high heat.
