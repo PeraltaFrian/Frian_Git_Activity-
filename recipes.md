@@ -10,6 +10,8 @@
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
     - [Pineapple Upside Down Cake](#pineapple-upside-down-cake)
+- [Drinks](#drinks)  
+    - [Brewed Coffee](#brewed-coffee)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -139,3 +141,15 @@ Instructions:
 6. Bake in the preheated oven until a toothpick inserted into the cake comes out clean, 25 to 28 minutes.
 7. Remove from the oven and let cool in the skillet for 10 minutes; don't let the cake cool too much or it will stick to the pan.
 8. Run an offset spatula around the edges to gently loosen cake. Place a plate over the skillet, then flip and carefully turn the warm cake out onto a plate. Transfer any fruit or glaze that sticks in the skillet back to the cake.
+
+## Drinks
+### Brewed Coffee
+
+Ingredients:
+- 1 cup hot water
+- 2 tablespoons coarse-ground coffee (for a stronger cup, add up to 2 tablespoons more)
+
+Instructions:
+1. Bring water to a boil; let stand 2 minutes (water should be just below boiling point).
+2. Pour a small amount into a French press. Swirl once to warm carafe; discard.
+3. Put ground coffee in carafe. Pour in hot water. Stir once with a wooden spoon. Position plunger at top of carafe; let stand 4 minutes. Slowly push plunger down. Serve.
