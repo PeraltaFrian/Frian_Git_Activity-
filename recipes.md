@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Pineapple Upside Down Cake](#pineapple-upside-down-cake)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -114,3 +115,25 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Pineapple Upside-Down Cake
+
+Ingredients:
+- 1 (20 ounce) can pineapple rings
+- 1/4 cup water, or as needed
+- 1/2 cup unsalted butter
+- 1 (15.25 ounce) package white cake mix (such as Betty Crocker Super Moist)
+- 1/2 cup vegetable oil
+- 3 large egg whites
+- 1 1/2 cups brown sugar
+- 7 maraschino cherries
+
+Instructions:
+1. Preheat the oven to 350 degrees F (175 degrees C).
+2. Drain canned pineapple into a 1-cup measure. Add water if needed to measure 1 cup. Set aside juice and 7 pineapple rings for the cake. Set any remaining juice and rings  aside for another use.
+3. Melt butter in a 10- or 11-inch cast iron skillet over medium-high heat.
+4. While butter is melting, combine cake mix, reserved 1 cup pineapple juice, vegetable oil, and egg whites in a mixing bowl. Beat with an electric mixer on medium speed for 2 minutes.
+5. Remove melted butter from the heat and sprinkle brown sugar evenly over top until all butter is covered. Arrange 6 pineapple rings around the outer edge of the skillet and the remaining ring in the center without overlapping. Place a maraschino cherry into the center of each pineapple ring. Pour cake batter over the pineapples.
+6. Bake in the preheated oven until a toothpick inserted into the cake comes out clean, 25 to 28 minutes.
+7. Remove from the oven and let cool in the skillet for 10 minutes; don't let the cake cool too much or it will stick to the pan.
+8. Run an offset spatula around the edges to gently loosen cake. Place a plate over the skillet, then flip and carefully turn the warm cake out onto a plate. Transfer any fruit or glaze that sticks in the skillet back to the cake.
